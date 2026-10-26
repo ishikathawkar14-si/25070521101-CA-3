@@ -1,0 +1,6 @@
+# Server gitignore
+node_modules/
+.env
+logs/
+*.log
+.DS_Store
